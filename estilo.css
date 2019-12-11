@@ -1,0 +1,41 @@
+body.a {background-color: rgb(247, 232, 214);
+    color: rgb(168, 65, 57);
+align-content: center;
+margin: 50px; }
+
+body {background-color: rgb(255, 255, 255);
+    color: rgb(168, 65, 57);
+align-content: center;
+margin-left: 300px;
+margin-top: 60px;
+margin-right: 300px;
+margin-bottom: 60px
+}
+h2 {text-align: center;}
+hr.a {
+    clear: both;
+  }
+
+
+  img.izquierda {
+      float: left;
+  }
+  img.derecha {float: right;}
+  img{
+    display:block;
+    margin:auto;
+    }
+    p.a {text-align: left;
+    clear: both;}
+    iframe img{
+        display:block;
+        margin:auto;
+        }
+
+        p.centro {text-align:center}
+        p.izq {text-align:right}
+        p.der {text-align: left}
+
+        img.cont {		    margin:10px auto;
+            display:block;}
+            h2.pal {text-align: left;}
